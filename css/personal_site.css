@@ -1,5 +1,6 @@
 header {
     background: #4a79bf;
+    min-height: 730px;
 }
 body:after {
     content:"";
@@ -9,7 +10,5 @@ body:after {
     bottom: -1500px;
     left: 50%;
     border-left: 2px dotted #444; 
-    
+
 }
-
-
