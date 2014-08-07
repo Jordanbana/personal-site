@@ -6,9 +6,9 @@ body:after {
     content:"";
     position: absolute;
     z-index: -1;
-    top: 0px;
+    top: 1030px;
     bottom: -1500px;
     left: 50%;
-    border-left: 2px dotted #444; 
+    border-left: 2px dotted #444;
 
 }
