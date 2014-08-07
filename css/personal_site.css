@@ -28,3 +28,9 @@ background-image: linear-gradient(to bottom, #040421 46%, #858585 100%);
 
 color:#fff;
 }
+
+.featured_section {
+  text-align: center;
+  background: #fff;
+
+}
