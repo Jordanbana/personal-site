@@ -12,3 +12,19 @@ body:after {
     border-left: 2px dotted #444;
 
 }
+.onemorething{
+background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0.46, #040421),
+	color-stop(1, #858585)
+);
+background-image: -o-linear-gradient(bottom, #040421 46%, #858585 100%);
+background-image: -moz-linear-gradient(bottom, #040421 46%, #858585 100%);
+background-image: -webkit-linear-gradient(bottom, #040421 46%, #858585 100%);
+background-image: -ms-linear-gradient(bottom, #040421 46%, #858585 100%);
+background-image: linear-gradient(to bottom, #040421 46%, #858585 100%);
+
+color:#fff;
+}
